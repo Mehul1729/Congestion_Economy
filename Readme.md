@@ -1,5 +1,5 @@
 # Congestion Economy
-This project try to analyse and build up on the problem of congestion faced on indian roads. 
+This project tries to analyse and build upon the problem of congestion faced on Indian roads.
 
 
 
