@@ -1,0 +1,1075 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-11-01T10:35:00Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/277420424",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3227373,
+          28.5802747
+        ]
+      },
+      "id": "node/277420424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/283639498",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3743659,
+          28.6278523
+        ]
+      },
+      "id": "node/283639498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/283639499",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.374165,
+          28.6238954
+        ]
+      },
+      "id": "node/283639499"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/300136191",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3439565,
+          28.5824162
+        ]
+      },
+      "id": "node/300136191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/301037164",
+        "highway": "traffic_signals",
+        "name": "Mamura Chowk",
+        "name:hi": "Mamura Chowk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3727778,
+          28.609915
+        ]
+      },
+      "id": "node/301037164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/301037167",
+        "highway": "traffic_signals",
+        "name": "Mamura Chowk",
+        "name:hi": "Mamura Chowk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3728101,
+          28.6100058
+        ]
+      },
+      "id": "node/301037167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/301037169",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3743467,
+          28.6239064
+        ]
+      },
+      "id": "node/301037169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/301037170",
+        "highway": "traffic_signals",
+        "name": "Mamura Chowk",
+        "name:hi": "Mamura Chowk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3729741,
+          28.6099035
+        ]
+      },
+      "id": "node/301037170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/301037171",
+        "highway": "traffic_signals",
+        "name": "Mamura Chowk",
+        "name:hi": "Mamura Chowk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3729824,
+          28.6099955
+        ]
+      },
+      "id": "node/301037171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/301037174",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3745353,
+          28.6278474
+        ]
+      },
+      "id": "node/301037174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/301037177",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3150936,
+          28.5807591
+        ]
+      },
+      "id": "node/301037177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/307369677",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3735418,
+          28.6176758
+        ]
+      },
+      "id": "node/307369677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/307369679",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3737928,
+          28.6179787
+        ]
+      },
+      "id": "node/307369679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/308896638",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.344175,
+          28.5713912
+        ]
+      },
+      "id": "node/308896638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/833271074",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3440788,
+          28.5713242
+        ]
+      },
+      "id": "node/833271074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/836074211",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3228681,
+          28.5739785
+        ]
+      },
+      "id": "node/836074211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/836074232",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3188837,
+          28.5770656
+        ]
+      },
+      "id": "node/836074232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/836074234",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3231341,
+          28.573556
+        ]
+      },
+      "id": "node/836074234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/836074249",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3185784,
+          28.5775606
+        ]
+      },
+      "id": "node/836074249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/836083113",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3231954,
+          28.5738352
+        ]
+      },
+      "id": "node/836083113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/836083136",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3227886,
+          28.5736531
+        ]
+      },
+      "id": "node/836083136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/841515946",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3223667,
+          28.5803085
+        ]
+      },
+      "id": "node/841515946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/841516325",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3223102,
+          28.5801144
+        ]
+      },
+      "id": "node/841516325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/841773686",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3366111,
+          28.5904186
+        ]
+      },
+      "id": "node/841773686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/841773698",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3151248,
+          28.5809448
+        ]
+      },
+      "id": "node/841773698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/841773726",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3264908,
+          28.5831255
+        ]
+      },
+      "id": "node/841773726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/841773741",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.326815,
+          28.5829972
+        ]
+      },
+      "id": "node/841773741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/841773770",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3324,
+          28.5873264
+        ]
+      },
+      "id": "node/841773770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/841773796",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3411071,
+          28.5937678
+        ]
+      },
+      "id": "node/841773796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/841773839",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3407576,
+          28.5936788
+        ]
+      },
+      "id": "node/841773839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/841773849",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3320503,
+          28.5872077
+        ]
+      },
+      "id": "node/841773849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/841773856",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3361965,
+          28.5902799
+        ]
+      },
+      "id": "node/841773856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/841773875",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3362766,
+          28.5905284
+        ]
+      },
+      "id": "node/841773875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/841773881",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3149898,
+          28.5808465
+        ]
+      },
+      "id": "node/841773881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/841773908",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3269147,
+          28.5832768
+        ]
+      },
+      "id": "node/841773908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/841773944",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3265633,
+          28.5832987
+        ]
+      },
+      "id": "node/841773944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/841773998",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3152177,
+          28.580853
+        ]
+      },
+      "id": "node/841773998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/841774021",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3323381,
+          28.587083
+        ]
+      },
+      "id": "node/841774021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/841774031",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3409826,
+          28.5935837
+        ]
+      },
+      "id": "node/841774031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/841774093",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3364049,
+          28.590268
+        ]
+      },
+      "id": "node/841774093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/843324383",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3440142,
+          28.5991541
+        ]
+      },
+      "id": "node/843324383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/843324437",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3441543,
+          28.5988556
+        ]
+      },
+      "id": "node/843324437"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/843324602",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3443935,
+          28.5990208
+        ]
+      },
+      "id": "node/843324602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/847791372",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3316883,
+          28.5952601
+        ]
+      },
+      "id": "node/847791372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/847791376",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3315591,
+          28.5955092
+        ]
+      },
+      "id": "node/847791376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/847791401",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3317771,
+          28.5954274
+        ]
+      },
+      "id": "node/847791401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/847791420",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3292667,
+          28.5980239
+        ]
+      },
+      "id": "node/847791420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/847791439",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3291745,
+          28.5977631
+        ]
+      },
+      "id": "node/847791439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/847791449",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3294377,
+          28.5977085
+        ]
+      },
+      "id": "node/847791449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/848554102",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3160167,
+          28.5890166
+        ]
+      },
+      "id": "node/848554102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/848554105",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3161624,
+          28.588985
+        ]
+      },
+      "id": "node/848554105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/848554142",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3160837,
+          28.5889273
+        ]
+      },
+      "id": "node/848554142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/848554147",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3161093,
+          28.5890808
+        ]
+      },
+      "id": "node/848554147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/849943357",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3109717,
+          28.586185
+        ]
+      },
+      "id": "node/849943357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/849943473",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3108607,
+          28.586122
+        ]
+      },
+      "id": "node/849943473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/849943546",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3110408,
+          28.5860859
+        ]
+      },
+      "id": "node/849943546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/849943586",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3109294,
+          28.5860228
+        ]
+      },
+      "id": "node/849943586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1820903920",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3329528,
+          28.5939146
+        ]
+      },
+      "id": "node/1820903920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1820903922",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3327964,
+          28.5939918
+        ]
+      },
+      "id": "node/1820903922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1820903923",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.333009,
+          28.5940124
+        ]
+      },
+      "id": "node/1820903923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1820903925",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3328763,
+          28.594112
+        ]
+      },
+      "id": "node/1820903925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6646317626",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3441071,
+          28.5714659
+        ]
+      },
+      "id": "node/6646317626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6646317627",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3440079,
+          28.571401
+        ]
+      },
+      "id": "node/6646317627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7150964024",
+        "highway": "traffic_signals",
+        "traffic_signals:direction": "backward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3407748,
+          28.5938819
+        ]
+      },
+      "id": "node/7150964024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9308343356",
+        "button_operated": "no",
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals",
+        "supervised": "no",
+        "traffic_signals:direction": "forward",
+        "traffic_signals:sound": "no",
+        "traffic_signals:vibration": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3855415,
+          28.5138443
+        ]
+      },
+      "id": "node/9308343356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9843255232",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3324587,
+          28.5871819
+        ]
+      },
+      "id": "node/9843255232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9843255240",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3266395,
+          28.5833721
+        ]
+      },
+      "id": "node/9843255240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9843255243",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3269072,
+          28.5830903
+        ]
+      },
+      "id": "node/9843255243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11773169926",
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3568947,
+          28.5921766
+        ]
+      },
+      "id": "node/11773169926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11773169927",
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3572617,
+          28.5922285
+        ]
+      },
+      "id": "node/11773169927"
+    }
+  ]
+}

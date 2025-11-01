@@ -1,0 +1,4942 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-11-01T10:35:58Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1433190203",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3090004,
+          28.3185199
+        ]
+      },
+      "id": "node/1433190203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1806418154",
+        "from": "Rajhans Resort",
+        "highway": "traffic_signals",
+        "ref": "NEARSURAJKUND_S3",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.282812,
+          28.4886919
+        ]
+      },
+      "id": "node/1806418154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1835888089",
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2815782,
+          28.3988202
+        ]
+      },
+      "id": "node/1835888089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1835888091",
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2816298,
+          28.3988558
+        ]
+      },
+      "id": "node/1835888091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8329601398",
+        "from": "Surajkund RA",
+        "highway": "traffic_signals",
+        "ref": "NEARSURAJKUND_S2",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2832347,
+          28.4891128
+        ]
+      },
+      "id": "node/8329601398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8329601399",
+        "from": "Delhi",
+        "highway": "traffic_signals",
+        "ref": "NEARSURAJKUND_S1",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2826204,
+          28.4892921
+        ]
+      },
+      "id": "node/8329601399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8329706766",
+        "highway": "traffic_signals",
+        "ref": "NEARSURAJKUND_PEDESTRIAN_S3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2827982,
+          28.4886729
+        ]
+      },
+      "id": "node/8329706766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8329706773",
+        "highway": "traffic_signals",
+        "ref": "NEARSURAJKUND_PEDESTRIAN_S2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.28326,
+          28.4891045
+        ]
+      },
+      "id": "node/8329706773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8329706782",
+        "highway": "traffic_signals",
+        "ref": "NEARSURAJKUND_PEDESTRIAN_S1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2826009,
+          28.4892983
+        ]
+      },
+      "id": "node/8329706782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8329706790",
+        "from": "T Point Near Surajkund",
+        "highway": "traffic_signals",
+        "ref": "SURAJKUND_S3",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2861089,
+          28.4893343
+        ]
+      },
+      "id": "node/8329706790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8329710984",
+        "highway": "traffic_signals",
+        "ref": "SURAJKUND_PEDESTRIAN_S4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2866253,
+          28.4898369
+        ]
+      },
+      "id": "node/8329710984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8329710991",
+        "highway": "traffic_signals",
+        "ref": "SURAJKUND_PEDESTRIAN_S1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2870845,
+          28.4893464
+        ]
+      },
+      "id": "node/8329710991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8329710998",
+        "highway": "traffic_signals",
+        "ref": "SURAJKUND_PEDESTRIAN_S3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2861356,
+          28.4893276
+        ]
+      },
+      "id": "node/8329710998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8329711002",
+        "highway": "traffic_signals",
+        "ref": "SURAJKUND_PEDESTRIAN_S2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2863941,
+          28.4892215
+        ]
+      },
+      "id": "node/8329711002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8329711009",
+        "from": "Anangpur",
+        "highway": "traffic_signals",
+        "ref": "SURAJKUND_S1",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2871152,
+          28.4892947
+        ]
+      },
+      "id": "node/8329711009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8329711010",
+        "from": "Delhi",
+        "highway": "traffic_signals",
+        "ref": "SURAJKUND_S4",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2866967,
+          28.4898605
+        ]
+      },
+      "id": "node/8329711010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8329711011",
+        "from": "Parking",
+        "highway": "traffic_signals",
+        "ref": "SURAJKUND_S2",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2864071,
+          28.4892546
+        ]
+      },
+      "id": "node/8329711011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8329722383",
+        "from": "Colony",
+        "highway": "traffic_signals",
+        "ref": "ANANGPUR_S3",
+        "traffic_signals:direction": "backward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2847186,
+          28.4612537
+        ]
+      },
+      "id": "node/8329722383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8329722384",
+        "from": "Arawali School",
+        "highway": "traffic_signals",
+        "ref": "ANANGPUR_S1",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2847613,
+          28.4611875
+        ]
+      },
+      "id": "node/8329722384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8329722385",
+        "from": "Mathura Road",
+        "highway": "traffic_signals",
+        "ref": "ANANGPUR_S4",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2848983,
+          28.461236
+        ]
+      },
+      "id": "node/8329722385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8329722393",
+        "from": "Surajkund",
+        "highway": "traffic_signals",
+        "ref": "ANANGPUR_S2",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2848922,
+          28.4613212
+        ]
+      },
+      "id": "node/8329722393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8329884298",
+        "highway": "traffic_signals",
+        "ref": "ARAVALI_SCHOOL_PEDESTRIAN_S3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2803439,
+          28.4466596
+        ]
+      },
+      "id": "node/8329884298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8329884305",
+        "highway": "traffic_signals",
+        "ref": "ARAVALI_SCHOOL_PEDESTRIAN_S2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2807836,
+          28.4465075
+        ]
+      },
+      "id": "node/8329884305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8329884309",
+        "from": "Leisure Valley",
+        "highway": "traffic_signals",
+        "ref": "ARAVALI_SCHOOL_S2",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2807385,
+          28.4464808
+        ]
+      },
+      "id": "node/8329884309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8329884310",
+        "from": "Gurugram",
+        "highway": "traffic_signals",
+        "ref": "ARAVALI_SCHOOL_S3",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2803256,
+          28.4466526
+        ]
+      },
+      "id": "node/8329884310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8329887524",
+        "highway": "traffic_signals",
+        "ref": "ARAVALI_SCHOOL_PEDESTRIAN_S1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2808072,
+          28.44711
+        ]
+      },
+      "id": "node/8329887524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8329887528",
+        "from": "Colony",
+        "highway": "traffic_signals",
+        "ref": "ARAVALI_SCHOOL_S1",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2808729,
+          28.4471262
+        ]
+      },
+      "id": "node/8329887528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8329899063",
+        "highway": "traffic_signals",
+        "ref": "SECOTR44N46LEISUREVALLEYPARK_PEDESTRIAN_S3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2850639,
+          28.4386493
+        ]
+      },
+      "id": "node/8329899063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8329899070",
+        "highway": "traffic_signals",
+        "ref": "SECOTR44N46LEISUREVALLEYPARK_PEDESTRIAN_S2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2848624,
+          28.438695
+        ]
+      },
+      "id": "node/8329899070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8329899074",
+        "from": "Surajkund",
+        "highway": "traffic_signals",
+        "ref": "SECOTR44N46LEISUREVALLEYPARK_S2",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2849312,
+          28.438758
+        ]
+      },
+      "id": "node/8329899074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8329899075",
+        "from": "Sector 21C",
+        "highway": "traffic_signals",
+        "ref": "SECOTR44N46LEISUREVALLEYPARK_S3",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2850941,
+          28.4386696
+        ]
+      },
+      "id": "node/8329899075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8329899079",
+        "highway": "traffic_signals",
+        "ref": "SECOTR44N46LEISUREVALLEYPARK_PEDESTRIAN_S1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2849023,
+          28.4385817
+        ]
+      },
+      "id": "node/8329899079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8329899083",
+        "from": "Ankheer R/A",
+        "highway": "traffic_signals",
+        "ref": "SECOTR44N46LEISUREVALLEYPARK_S1",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2848917,
+          28.4385156
+        ]
+      },
+      "id": "node/8329899083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330015279",
+        "highway": "traffic_signals",
+        "ref": "SEC21C4647_PEDESTRIAN_S6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.296732,
+          28.4453412
+        ]
+      },
+      "id": "node/8330015279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330015286",
+        "highway": "traffic_signals",
+        "ref": "SEC21C4647_PEDESTRIAN_S5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2967349,
+          28.4454455
+        ]
+      },
+      "id": "node/8330015286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330015290",
+        "from": "Surajkund",
+        "highway": "traffic_signals",
+        "ref": "SEC21C4647_S5",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2967411,
+          28.445469
+        ]
+      },
+      "id": "node/8330015290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330015291",
+        "from": "Ankhir",
+        "highway": "traffic_signals",
+        "ref": "SEC21C4647_S6",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2967322,
+          28.4453034
+        ]
+      },
+      "id": "node/8330015291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330015295",
+        "highway": "traffic_signals",
+        "ref": "SEC21C4647_PEDESTRIAN_S7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2966415,
+          28.4454473
+        ]
+      },
+      "id": "node/8330015295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330015299",
+        "from": "Siddhadata Ashram",
+        "highway": "traffic_signals",
+        "ref": "SEC21C4647_S7",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2966215,
+          28.4454816
+        ]
+      },
+      "id": "node/8330015299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330074903",
+        "highway": "traffic_signals",
+        "ref": "SOHNA_BADKAL_FROM_AND_TO_SOHNA_PEDESTRIAN_S3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2818949,
+          28.407256
+        ]
+      },
+      "id": "node/8330074903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330074907",
+        "from": "Colony",
+        "highway": "traffic_signals",
+        "ref": "SOHNA_BADKAL_FROM_AND_TO_SOHNA_S3",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2819249,
+          28.4072408
+        ]
+      },
+      "id": "node/8330074907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330074911",
+        "highway": "traffic_signals",
+        "ref": "SOHNA_BADKAL_FROM_AND_TO_SOHNA_PEDESTRIAN_S2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2816434,
+          28.4075334
+        ]
+      },
+      "id": "node/8330074911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330074915",
+        "from": "Badhkal Lake",
+        "highway": "traffic_signals",
+        "ref": "SOHNA_BADKAL_FROM_AND_TO_SOHNA_S2",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.281731,
+          28.4075558
+        ]
+      },
+      "id": "node/8330074915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330076819",
+        "highway": "traffic_signals",
+        "ref": "SOHNA_BADKAL_FROM_AND_TO_SOHNA_PEDESTRIAN_S1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2814979,
+          28.4071832
+        ]
+      },
+      "id": "node/8330076819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330076823",
+        "from": "Gujjar Chowk",
+        "highway": "traffic_signals",
+        "ref": "SOHNA_BADKAL_FROM_AND_TO_SOHNA_S1",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2814346,
+          28.4071613
+        ]
+      },
+      "id": "node/8330076823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330077021",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2775342,
+          28.4034372
+        ]
+      },
+      "id": "node/8330077021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330077025",
+        "from": "Colony",
+        "highway": "traffic_signals",
+        "ref": "SAINIK_COLONY_MORE_S4",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2774618,
+          28.4035061
+        ]
+      },
+      "id": "node/8330077025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330077029",
+        "highway": "traffic_signals",
+        "ref": "SAINIK_COLONY_MORE_PEDESTRIAN_S3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2775392,
+          28.4033432
+        ]
+      },
+      "id": "node/8330077029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330077033",
+        "from": "Masjid Chowk",
+        "highway": "traffic_signals",
+        "ref": "SAINIK_COLONY_MORE_S3",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2776341,
+          28.4032265
+        ]
+      },
+      "id": "node/8330077033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330077039",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2776034,
+          28.4033715
+        ]
+      },
+      "id": "node/8330077039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330077043",
+        "from": "Badkal",
+        "highway": "traffic_signals",
+        "ref": "SAINIK_COLONY_MORE_S2",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2777848,
+          28.403456
+        ]
+      },
+      "id": "node/8330077043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330077047",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2774765,
+          28.4034124
+        ]
+      },
+      "id": "node/8330077047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330077051",
+        "from": "Gujjar Chowk",
+        "highway": "traffic_signals",
+        "ref": "SAINIK_COLONY_MORE_S1",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2772704,
+          28.4033211
+        ]
+      },
+      "id": "node/8330077051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330080399",
+        "highway": "traffic_signals",
+        "ref": "MULLAH_CHOWK_PEDESTRIAN_S1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2934692,
+          28.4021951
+        ]
+      },
+      "id": "node/8330080399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330080403",
+        "from": "Colony",
+        "highway": "traffic_signals",
+        "ref": "MULLAH_CHOWK_S1",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2934515,
+          28.4022175
+        ]
+      },
+      "id": "node/8330080403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330080407",
+        "highway": "traffic_signals",
+        "ref": "MULLAH_CHOWK_PEDESTRIAN_S2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2935481,
+          28.402157
+        ]
+      },
+      "id": "node/8330080407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330080411",
+        "from": "Chimnibai",
+        "highway": "traffic_signals",
+        "ref": "MULLAH_CHOWK_S2",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2935789,
+          28.4021528
+        ]
+      },
+      "id": "node/8330080411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330080415",
+        "highway": "traffic_signals",
+        "ref": "MULLAH_CHOWK_PEDESTRIAN_S3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2934475,
+          28.402113
+        ]
+      },
+      "id": "node/8330080415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330092802",
+        "highway": "traffic_signals",
+        "ref": "NH4N5_PEDESTRIAN_S3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2998642,
+          28.4045919
+        ]
+      },
+      "id": "node/8330092802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330092806",
+        "from": "unknown",
+        "highway": "traffic_signals",
+        "ref": "NH4N5_S3",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.299827,
+          28.4046157
+        ]
+      },
+      "id": "node/8330092806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330092810",
+        "highway": "traffic_signals",
+        "ref": "NH4N5_PEDESTRIAN_S1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2999859,
+          28.4045526
+        ]
+      },
+      "id": "node/8330092810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330092814",
+        "from": "Railway Station",
+        "highway": "traffic_signals",
+        "ref": "NH4N5_S1",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.300053,
+          28.4045644
+        ]
+      },
+      "id": "node/8330092814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330151519",
+        "from": "Masjid Chowk",
+        "highway": "traffic_signals",
+        "ref": "MULLAH_CHOWK_S3",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2934696,
+          28.4020624
+        ]
+      },
+      "id": "node/8330151519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330166518",
+        "highway": "traffic_signals",
+        "ref": "NH4N5_PEDESTRIAN_S2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2998912,
+          28.4044606
+        ]
+      },
+      "id": "node/8330166518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330166522",
+        "from": "KL Mehta",
+        "highway": "traffic_signals",
+        "ref": "NH4N5_S2",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2998349,
+          28.4044458
+        ]
+      },
+      "id": "node/8330166522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330174947",
+        "highway": "traffic_signals",
+        "ref": "CHIMNIBAI_PEDESTRIAN_S4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2971177,
+          28.3995902
+        ]
+      },
+      "id": "node/8330174947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330174951",
+        "from": "ESI Chowk",
+        "highway": "traffic_signals",
+        "ref": "CHIMNIBAI_S4",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2971013,
+          28.3996179
+        ]
+      },
+      "id": "node/8330174951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330174955",
+        "highway": "traffic_signals",
+        "ref": "CHIMNIBAI_PEDESTRIAN_S3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2973073,
+          28.3994358
+        ]
+      },
+      "id": "node/8330174955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330174959",
+        "from": "NH 4/5",
+        "highway": "traffic_signals",
+        "ref": "CHIMNIBAI_S3",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2973469,
+          28.3994169
+        ]
+      },
+      "id": "node/8330174959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330174963",
+        "highway": "traffic_signals",
+        "ref": "CHIMNIBAI_PEDESTRIAN_S2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2972681,
+          28.3995915
+        ]
+      },
+      "id": "node/8330174963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330174967",
+        "from": "Mulla Chowk",
+        "highway": "traffic_signals",
+        "ref": "CHIMNIBAI_S2",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2973432,
+          28.3996027
+        ]
+      },
+      "id": "node/8330174967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330174971",
+        "highway": "traffic_signals",
+        "ref": "CHIMNIBAI_PEDESTRIAN_S1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2971448,
+          28.3994535
+        ]
+      },
+      "id": "node/8330174971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330174975",
+        "from": "KL Mehta",
+        "highway": "traffic_signals",
+        "ref": "CHIMNIBAI_S1",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.297065,
+          28.3994275
+        ]
+      },
+      "id": "node/8330174975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330199412",
+        "highway": "traffic_signals",
+        "ref": "KLMEHTA_PEDESTRIAN_S3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2998436,
+          28.3972974
+        ]
+      },
+      "id": "node/8330199412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330199416",
+        "from": "unknown",
+        "highway": "traffic_signals",
+        "ref": "KLMEHTA_S3",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2998687,
+          28.3973029
+        ]
+      },
+      "id": "node/8330199416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330210820",
+        "highway": "traffic_signals",
+        "ref": "KLMEHTA_PEDESTRIAN_S5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2996974,
+          28.3972927
+        ]
+      },
+      "id": "node/8330210820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330210824",
+        "from": "NH 4/5",
+        "highway": "traffic_signals",
+        "ref": "KLMEHTA_S5",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2997011,
+          28.3973395
+        ]
+      },
+      "id": "node/8330210824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330210828",
+        "highway": "traffic_signals",
+        "ref": "KLMEHTA_PEDESTRIAN_S1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2998012,
+          28.3971632
+        ]
+      },
+      "id": "node/8330210828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330210832",
+        "from": "BK Chowk",
+        "highway": "traffic_signals",
+        "ref": "KLMEHTA_S1",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2997929,
+          28.3971248
+        ]
+      },
+      "id": "node/8330210832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330215762",
+        "highway": "traffic_signals",
+        "ref": "MASZID_CHOWK_PEDESTRIAN_S2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2863955,
+          28.3943861
+        ]
+      },
+      "id": "node/8330215762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330215766",
+        "from": "Leisure Valley",
+        "highway": "traffic_signals",
+        "ref": "MASZID_CHOWK_S2",
+        "traffic_signals:direction": "backward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2863927,
+          28.3943251
+        ]
+      },
+      "id": "node/8330215766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330215770",
+        "highway": "traffic_signals",
+        "ref": "MASZID_CHOWK_PEDESTRIAN_S1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2865113,
+          28.3946031
+        ]
+      },
+      "id": "node/8330215770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330215774",
+        "from": "Mullah Chowk",
+        "highway": "traffic_signals",
+        "ref": "MASZID_CHOWK_S1",
+        "traffic_signals:direction": "backward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2865721,
+          28.3946326
+        ]
+      },
+      "id": "node/8330215774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330215778",
+        "highway": "traffic_signals",
+        "ref": "MASZID_CHOWK_PEDESTRIAN_S4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2865515,
+          28.3943894
+        ]
+      },
+      "id": "node/8330215778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330215782",
+        "from": "ESI Chowk",
+        "highway": "traffic_signals",
+        "ref": "MASZID_CHOWK_S4",
+        "traffic_signals:direction": "backward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2865981,
+          28.3943766
+        ]
+      },
+      "id": "node/8330215782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330215786",
+        "highway": "traffic_signals",
+        "ref": "MASZID_CHOWK_PEDESTRIAN_S3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2860617,
+          28.3947182
+        ]
+      },
+      "id": "node/8330215786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330215790",
+        "from": "Sainik Colony",
+        "highway": "traffic_signals",
+        "ref": "MASZID_CHOWK_S3",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2860017,
+          28.3947839
+        ]
+      },
+      "id": "node/8330215790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330252592",
+        "highway": "traffic_signals",
+        "ref": "ESICHOWK_PEDESTRIAN_S1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2926761,
+          28.3910362
+        ]
+      },
+      "id": "node/8330252592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330252596",
+        "from": "NIT 2",
+        "highway": "traffic_signals",
+        "ref": "ESICHOWK_S1",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2926047,
+          28.3910412
+        ]
+      },
+      "id": "node/8330252596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330252600",
+        "highway": "traffic_signals",
+        "ref": "ESICHOWK_PEDESTRIAN_S2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2928639,
+          28.3911597
+        ]
+      },
+      "id": "node/8330252600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330252604",
+        "from": "Chimnibai",
+        "highway": "traffic_signals",
+        "ref": "ESICHOWK_S2",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2929313,
+          28.3911594
+        ]
+      },
+      "id": "node/8330252604"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330252608",
+        "highway": "traffic_signals",
+        "ref": "ESICHOWK_PEDESTRIAN_S3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2928282,
+          28.3909918
+        ]
+      },
+      "id": "node/8330252608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330252612",
+        "from": "Metro Chowk",
+        "highway": "traffic_signals",
+        "ref": "ESICHOWK_S3",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2928788,
+          28.3909667
+        ]
+      },
+      "id": "node/8330252612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330252616",
+        "highway": "traffic_signals",
+        "ref": "ESICHOWK_PEDESTRIAN_S4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2926597,
+          28.3911827
+        ]
+      },
+      "id": "node/8330252616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330268920",
+        "from": "Masjid Chowk",
+        "highway": "traffic_signals",
+        "ref": "ESICHOWK_S4",
+        "traffic_signals:direction": "backward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2926118,
+          28.3912567
+        ]
+      },
+      "id": "node/8330268920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330274209",
+        "highway": "traffic_signals",
+        "ref": "BKCHOWK_PEDESTRIAN_S3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3012603,
+          28.3921532
+        ]
+      },
+      "id": "node/8330274209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330274216",
+        "highway": "traffic_signals",
+        "ref": "BKCHOWK_PEDESTRIAN_S2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3016459,
+          28.3926776
+        ]
+      },
+      "id": "node/8330274216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330277793",
+        "highway": "traffic_signals",
+        "ref": "METRO_CHOWK_PEDESTRIAN_S3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3011299,
+          28.3894328
+        ]
+      },
+      "id": "node/8330277793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330277797",
+        "from": "ESI Chowk",
+        "highway": "traffic_signals",
+        "ref": "METRO_CHOWK_S3",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3010952,
+          28.3894477
+        ]
+      },
+      "id": "node/8330277797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330277801",
+        "highway": "traffic_signals",
+        "ref": "METRO_CHOWK_PEDESTRIAN_S1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3012559,
+          28.3893714
+        ]
+      },
+      "id": "node/8330277801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330277805",
+        "from": "Hardware Chowk",
+        "highway": "traffic_signals",
+        "ref": "METRO_CHOWK_S1",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3011984,
+          28.3893374
+        ]
+      },
+      "id": "node/8330277805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330277809",
+        "highway": "traffic_signals",
+        "ref": "METRO_CHOWK_PEDESTRIAN_S2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3012958,
+          28.389486
+        ]
+      },
+      "id": "node/8330277809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330277813",
+        "from": "BK Chowk",
+        "highway": "traffic_signals",
+        "ref": "METRO_CHOWK_S2",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3013443,
+          28.389524
+        ]
+      },
+      "id": "node/8330277813"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330284023",
+        "highway": "traffic_signals",
+        "ref": "BKCHOWK_PEDESTRIAN_S1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3016968,
+          28.3917883
+        ]
+      },
+      "id": "node/8330284023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330284027",
+        "from": "KL Mehta",
+        "highway": "traffic_signals",
+        "ref": "BKCHOWK_S2",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3016849,
+          28.3927324
+        ]
+      },
+      "id": "node/8330284027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330284028",
+        "from": "BK Hospital",
+        "highway": "traffic_signals",
+        "ref": "BKCHOWK_S3",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3011994,
+          28.3921661
+        ]
+      },
+      "id": "node/8330284028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330284029",
+        "from": "Metro Chowk",
+        "highway": "traffic_signals",
+        "ref": "BKCHOWK_S1",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3016366,
+          28.3917295
+        ]
+      },
+      "id": "node/8330284029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330284033",
+        "highway": "traffic_signals",
+        "ref": "BKCHOWK_PEDESTRIAN_S4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3022955,
+          28.3921635
+        ]
+      },
+      "id": "node/8330284033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330284037",
+        "from": "Neelam Chowk",
+        "highway": "traffic_signals",
+        "ref": "BKCHOWK_S4",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3023579,
+          28.3921125
+        ]
+      },
+      "id": "node/8330284037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330302607",
+        "highway": "traffic_signals",
+        "ref": "PEER_BABA__NEELAM_PEDESTRIAN_S4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3065942,
+          28.3861064
+        ]
+      },
+      "id": "node/8330302607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330302611",
+        "from": "Market",
+        "highway": "traffic_signals",
+        "ref": "PEER_BABA__NEELAM_S4",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3065176,
+          28.3861326
+        ]
+      },
+      "id": "node/8330302611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330302616",
+        "highway": "traffic_signals",
+        "ref": "PEER_BABA__NEELAM_PEDESTRIAN_S3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3068825,
+          28.3859223
+        ]
+      },
+      "id": "node/8330302616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330309007",
+        "highway": "traffic_signals",
+        "ref": "EASTINDIAMILL_PEDESTRIAN_S1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3037331,
+          28.3831845
+        ]
+      },
+      "id": "node/8330309007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330309014",
+        "highway": "traffic_signals",
+        "ref": "EASTINDIAMILL_PEDESTRIAN_S2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3035702,
+          28.3832454
+        ]
+      },
+      "id": "node/8330309014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330313020",
+        "from": "Bata Flyover",
+        "highway": "traffic_signals",
+        "ref": "PEER_BABA__NEELAM_S3",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.306821,
+          28.3858341
+        ]
+      },
+      "id": "node/8330313020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330313024",
+        "highway": "traffic_signals",
+        "ref": "PEER_BABA__NEELAM_PEDESTRIAN_S1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3068443,
+          28.3863931
+        ]
+      },
+      "id": "node/8330313024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330313028",
+        "from": "Neelam Cinema",
+        "highway": "traffic_signals",
+        "ref": "PEER_BABA__NEELAM_S1",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3069035,
+          28.386483
+        ]
+      },
+      "id": "node/8330313028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330319373",
+        "highway": "traffic_signals",
+        "ref": "HARDWARE_CHOWK_PEDESTRIAN_S1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2977468,
+          28.3771442
+        ]
+      },
+      "id": "node/8330319373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330319380",
+        "highway": "traffic_signals",
+        "ref": "HARDWARE_CHOWK_PEDESTRIAN_S2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2976595,
+          28.3780083
+        ]
+      },
+      "id": "node/8330319380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330319387",
+        "highway": "traffic_signals",
+        "ref": "HARDWARE_CHOWK_PEDESTRIAN_S3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2971322,
+          28.3775585
+        ]
+      },
+      "id": "node/8330319387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330319391",
+        "from": "Metro Chowk",
+        "highway": "traffic_signals",
+        "ref": "HARDWARE_CHOWK_S2",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2977085,
+          28.3780437
+        ]
+      },
+      "id": "node/8330319391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330319392",
+        "from": "Leisure Valley",
+        "highway": "traffic_signals",
+        "ref": "HARDWARE_CHOWK_S3",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2970923,
+          28.3776082
+        ]
+      },
+      "id": "node/8330319392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330319393",
+        "from": "Kelvinator Chowk",
+        "highway": "traffic_signals",
+        "ref": "HARDWARE_CHOWK_S1",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2976943,
+          28.3771085
+        ]
+      },
+      "id": "node/8330319393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330319397",
+        "highway": "traffic_signals",
+        "ref": "HARDWARE_CHOWK_PEDESTRIAN_S4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2982283,
+          28.377595
+        ]
+      },
+      "id": "node/8330319397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330319401",
+        "from": "Bata Flyover",
+        "highway": "traffic_signals",
+        "ref": "HARDWARE_CHOWK_S4",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2983006,
+          28.3775588
+        ]
+      },
+      "id": "node/8330319401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330324621",
+        "highway": "traffic_signals",
+        "ref": "EASTINDIAMILL_PEDESTRIAN_S4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3036614,
+          28.3832984
+        ]
+      },
+      "id": "node/8330324621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330324625",
+        "from": "Vishal Mega Mart",
+        "highway": "traffic_signals",
+        "ref": "EASTINDIAMILL_S3",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.303594,
+          28.3831055
+        ]
+      },
+      "id": "node/8330324625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330324626",
+        "from": "Bata Flyover",
+        "highway": "traffic_signals",
+        "ref": "EASTINDIAMILL_S1",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3037552,
+          28.3831645
+        ]
+      },
+      "id": "node/8330324626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330324627",
+        "from": "Metro Chowk",
+        "highway": "traffic_signals",
+        "ref": "EASTINDIAMILL_S2",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3035155,
+          28.3832559
+        ]
+      },
+      "id": "node/8330324627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330324631",
+        "highway": "traffic_signals",
+        "ref": "EASTINDIAMILL_PEDESTRIAN_S3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3035895,
+          28.3831376
+        ]
+      },
+      "id": "node/8330324631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330324635",
+        "from": "Peer Baba Neelam",
+        "highway": "traffic_signals",
+        "ref": "EASTINDIAMILL_S4",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3036868,
+          28.3833198
+        ]
+      },
+      "id": "node/8330324635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330326952",
+        "highway": "traffic_signals",
+        "ref": "LEISURE_VALLEY_PEDESTRIAN_S4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2859862,
+          28.3827396
+        ]
+      },
+      "id": "node/8330326952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330326959",
+        "highway": "traffic_signals",
+        "ref": "LEISURE_VALLEY_PEDESTRIAN_S3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2856943,
+          28.382714
+        ]
+      },
+      "id": "node/8330326959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330326963",
+        "from": "Leisure Valley",
+        "highway": "traffic_signals",
+        "ref": "LEISURE_VALLEY_S3",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2856534,
+          28.382725
+        ]
+      },
+      "id": "node/8330326963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330326964",
+        "from": "Colony",
+        "highway": "traffic_signals",
+        "ref": "LEISURE_VALLEY_S4",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2860289,
+          28.382758
+        ]
+      },
+      "id": "node/8330326964"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330326968",
+        "highway": "traffic_signals",
+        "ref": "LEISURE_VALLEY_PEDESTRIAN_S1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2858083,
+          28.3828498
+        ]
+      },
+      "id": "node/8330326968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330326972",
+        "from": "Masjid Chowk",
+        "highway": "traffic_signals",
+        "ref": "LEISURE_VALLEY_S1",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2858477,
+          28.3828985
+        ]
+      },
+      "id": "node/8330326972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330326976",
+        "highway": "traffic_signals",
+        "ref": "LEISURE_VALLEY_PEDESTRIAN_S2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2858485,
+          28.3825975
+        ]
+      },
+      "id": "node/8330326976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330326980",
+        "from": "Hardware Chowk",
+        "highway": "traffic_signals",
+        "ref": "LEISURE_VALLEY_S2",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2858141,
+          28.3825524
+        ]
+      },
+      "id": "node/8330326980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330456021",
+        "highway": "traffic_signals",
+        "ref": "BATA_FLYOVER_PEDESTRIAN_S2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3068681,
+          28.3778123
+        ]
+      },
+      "id": "node/8330456021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330456028",
+        "highway": "traffic_signals",
+        "ref": "BATA_FLYOVER_PEDESTRIAN_S1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3068428,
+          28.3783411
+        ]
+      },
+      "id": "node/8330456028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330456032",
+        "from": "Neelam Chowk",
+        "highway": "traffic_signals",
+        "ref": "BATA_FLYOVER_S1",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.306875,
+          28.3783758
+        ]
+      },
+      "id": "node/8330456032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330456033",
+        "from": "Sector 22",
+        "highway": "traffic_signals",
+        "ref": "BATA_FLYOVER_S2",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3068844,
+          28.3777788
+        ]
+      },
+      "id": "node/8330456033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330456037",
+        "highway": "traffic_signals",
+        "ref": "BATA_FLYOVER_PEDESTRIAN_S4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3070386,
+          28.3780425
+        ]
+      },
+      "id": "node/8330456037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330456041",
+        "from": "Railway Station",
+        "highway": "traffic_signals",
+        "ref": "BATA_FLYOVER_S4",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3070909,
+          28.3779121
+        ]
+      },
+      "id": "node/8330456041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330456046",
+        "highway": "traffic_signals",
+        "ref": "BATA_FLYOVER_PEDESTRIAN_S3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3066954,
+          28.3780237
+        ]
+      },
+      "id": "node/8330456046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330456050",
+        "from": "Hardware Chowk",
+        "highway": "traffic_signals",
+        "ref": "BATA_FLYOVER_S3",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3066081,
+          28.3781432
+        ]
+      },
+      "id": "node/8330456050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330484344",
+        "highway": "traffic_signals",
+        "ref": "KALVINATORCHOWK_PEDESTRIAN_S3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2982231,
+          28.372824
+        ]
+      },
+      "id": "node/8330484344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330484351",
+        "highway": "traffic_signals",
+        "ref": "KALVINATORCHOWK_PEDESTRIAN_S4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2978602,
+          28.3728198
+        ]
+      },
+      "id": "node/8330484351"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330484355",
+        "from": "Colony",
+        "highway": "traffic_signals",
+        "ref": "KALVINATORCHOWK_S4",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2978118,
+          28.3727922
+        ]
+      },
+      "id": "node/8330484355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330484356",
+        "from": "Sector 22",
+        "highway": "traffic_signals",
+        "ref": "KALVINATORCHOWK_S3",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2982721,
+          28.3728001
+        ]
+      },
+      "id": "node/8330484356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330484360",
+        "highway": "traffic_signals",
+        "ref": "KALVINATORCHOWK_PEDESTRIAN_S1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2980687,
+          28.3726636
+        ]
+      },
+      "id": "node/8330484360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330484364",
+        "from": "Sector 22/23",
+        "highway": "traffic_signals",
+        "ref": "KALVINATORCHOWK_S1",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2980245,
+          28.3725945
+        ]
+      },
+      "id": "node/8330484364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330484368",
+        "highway": "traffic_signals",
+        "ref": "KALVINATORCHOWK_PEDESTRIAN_S2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2980482,
+          28.3729639
+        ]
+      },
+      "id": "node/8330484368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330484372",
+        "from": "Hardware Chowk",
+        "highway": "traffic_signals",
+        "ref": "KALVINATORCHOWK_S2",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2980938,
+          28.3730364
+        ]
+      },
+      "id": "node/8330484372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330614982",
+        "highway": "traffic_signals",
+        "ref": "ELECTRICITYBOARD_PEDESTRIAN_S3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2994608,
+          28.3605374
+        ]
+      },
+      "id": "node/8330614982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330614989",
+        "highway": "traffic_signals",
+        "ref": "ELECTRICITYBOARD_PEDESTRIAN_S4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2998135,
+          28.3604179
+        ]
+      },
+      "id": "node/8330614989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330614993",
+        "from": "Colony",
+        "highway": "traffic_signals",
+        "ref": "ELECTRICITYBOARD_S3",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2994037,
+          28.3605472
+        ]
+      },
+      "id": "node/8330614993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330614994",
+        "from": "Mujhesar",
+        "highway": "traffic_signals",
+        "ref": "ELECTRICITYBOARD_S4",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2998637,
+          28.3604339
+        ]
+      },
+      "id": "node/8330614994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330614998",
+        "highway": "traffic_signals",
+        "ref": "ELECTRICITYBOARD_PEDESTRIAN_S2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2995962,
+          28.3606594
+        ]
+      },
+      "id": "node/8330614998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330615002",
+        "from": "Sector 22/23",
+        "highway": "traffic_signals",
+        "ref": "ELECTRICITYBOARD_S2",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2996617,
+          28.3607168
+        ]
+      },
+      "id": "node/8330615002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330615006",
+        "highway": "traffic_signals",
+        "ref": "ELECTRICITYBOARD_PEDESTRIAN_S1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.299621,
+          28.3603582
+        ]
+      },
+      "id": "node/8330615006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330615010",
+        "from": "Sanjay Colony",
+        "highway": "traffic_signals",
+        "ref": "ELECTRICITYBOARD_S1",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2995772,
+          28.3602911
+        ]
+      },
+      "id": "node/8330615010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330645391",
+        "highway": "traffic_signals",
+        "ref": "SECTOR2223_PEDESTRIAN_S3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2995996,
+          28.3630944
+        ]
+      },
+      "id": "node/8330645391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330645395",
+        "from": "Mujhesar",
+        "highway": "traffic_signals",
+        "ref": "SECTOR2223_S3",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2996424,
+          28.363108
+        ]
+      },
+      "id": "node/8330645395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330645399",
+        "highway": "traffic_signals",
+        "ref": "SECTOR2223_PEDESTRIAN_S2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2993884,
+          28.3631993
+        ]
+      },
+      "id": "node/8330645399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330645403",
+        "from": "Kelvinator Chowk",
+        "highway": "traffic_signals",
+        "ref": "SECTOR2223_S2",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2994484,
+          28.3632668
+        ]
+      },
+      "id": "node/8330645403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330645407",
+        "highway": "traffic_signals",
+        "ref": "SECTOR2223_PEDESTRIAN_S1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2994024,
+          28.3630289
+        ]
+      },
+      "id": "node/8330645407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330645411",
+        "from": "Electricity Board",
+        "highway": "traffic_signals",
+        "ref": "SECTOR2223_S1",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2993579,
+          28.3629648
+        ]
+      },
+      "id": "node/8330645411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330701016",
+        "highway": "traffic_signals",
+        "ref": "SEC2555_PEDESTRIAN_S6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2999388,
+          28.3480081
+        ]
+      },
+      "id": "node/8330701016"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330701820",
+        "from": "Sohna",
+        "highway": "traffic_signals",
+        "ref": "SEC2555_S6",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2998969,
+          28.3480209
+        ]
+      },
+      "id": "node/8330701820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330701824",
+        "highway": "traffic_signals",
+        "ref": "SEC2555_PEDESTRIAN_S5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3002346,
+          28.3479838
+        ]
+      },
+      "id": "node/8330701824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330701828",
+        "from": "Ballabhgarh",
+        "highway": "traffic_signals",
+        "ref": "SEC2555_S5",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3002647,
+          28.3479915
+        ]
+      },
+      "id": "node/8330701828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330701832",
+        "highway": "traffic_signals",
+        "ref": "SEC2555_PEDESTRIAN_S7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3001353,
+          28.3482112
+        ]
+      },
+      "id": "node/8330701832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330701836",
+        "from": "Sanjay Colony",
+        "highway": "traffic_signals",
+        "ref": "SEC2555_S7",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3001686,
+          28.3482858
+        ]
+      },
+      "id": "node/8330701836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330701840",
+        "highway": "traffic_signals",
+        "ref": "SANJAY_COLONY_PEDESTRIAN_S3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.300368,
+          28.352613
+        ]
+      },
+      "id": "node/8330701840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330701844",
+        "from": "Mujhesar",
+        "highway": "traffic_signals",
+        "ref": "SANJAY_COLONY_S3",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.300431,
+          28.352637
+        ]
+      },
+      "id": "node/8330701844"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330701848",
+        "highway": "traffic_signals",
+        "ref": "SANJAY_COLONY_PEDESTRIAN_S1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3002044,
+          28.352515
+        ]
+      },
+      "id": "node/8330701848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330701852",
+        "from": "Sector 25/55",
+        "highway": "traffic_signals",
+        "ref": "SANJAY_COLONY_S1",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3002383,
+          28.3524462
+        ]
+      },
+      "id": "node/8330701852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330701856",
+        "highway": "traffic_signals",
+        "ref": "SANJAY_COLONY_PEDESTRIAN_S2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3001836,
+          28.3528236
+        ]
+      },
+      "id": "node/8330701856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330701860",
+        "from": "Electricity Board",
+        "highway": "traffic_signals",
+        "ref": "SANJAY_COLONY_S2",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3002041,
+          28.3529105
+        ]
+      },
+      "id": "node/8330701860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330714632",
+        "highway": "traffic_signals",
+        "ref": "SEC25TPOINT_PEDESTRIAN_S7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3028114,
+          28.3473113
+        ]
+      },
+      "id": "node/8330714632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330714636",
+        "from": "Ballabhgarh",
+        "highway": "traffic_signals",
+        "ref": "SEC25TPOINT_S5",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3027521,
+          28.3474515
+        ]
+      },
+      "id": "node/8330714636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330714637",
+        "from": "Sohna",
+        "highway": "traffic_signals",
+        "ref": "SEC25TPOINT_S6",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.302904,
+          28.3474031
+        ]
+      },
+      "id": "node/8330714637"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330714641",
+        "highway": "traffic_signals",
+        "ref": "SEC25TPOINT_PEDESTRIAN_S6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3028741,
+          28.3474066
+        ]
+      },
+      "id": "node/8330714641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330714648",
+        "highway": "traffic_signals",
+        "ref": "SEC25TPOINT_PEDESTRIAN_S5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3027777,
+          28.3474372
+        ]
+      },
+      "id": "node/8330714648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330714652",
+        "from": "Sector 55",
+        "highway": "traffic_signals",
+        "ref": "SEC25TPOINT_S7",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3028179,
+          28.3472921
+        ]
+      },
+      "id": "node/8330714652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8336802557",
+        "from": "Delhi",
+        "highway": "traffic_signals",
+        "ref": "SECTOR_37_S5",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.314357,
+          28.4829236
+        ]
+      },
+      "id": "node/8336802557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8336802561",
+        "highway": "traffic_signals",
+        "ref": "SECTOR_37_PEDESTRIAN_S5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3143685,
+          28.4828578
+        ]
+      },
+      "id": "node/8336802561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8336802568",
+        "highway": "traffic_signals",
+        "ref": "SECTOR_37_PEDESTRIAN_S7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3143553,
+          28.4826339
+        ]
+      },
+      "id": "node/8336802568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8336802572",
+        "from": "Sector 37",
+        "highway": "traffic_signals",
+        "ref": "SECTOR_37_S7",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3142884,
+          28.4826052
+        ]
+      },
+      "id": "node/8336802572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8337022204",
+        "highway": "traffic_signals",
+        "ref": "NHPC_CHOWK_PEDESTRIAN_S3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3171003,
+          28.463282
+        ]
+      },
+      "id": "node/8337022204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8337022211",
+        "from": "Mathura Road",
+        "highway": "traffic_signals",
+        "ref": "NHPC_CHOWK_S3",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.317022,
+          28.4632927
+        ]
+      },
+      "id": "node/8337022211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8337296212",
+        "from": "Palwal",
+        "highway": "traffic_signals",
+        "ref": "AAITDMADPUR_S1",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3192512,
+          28.4530232
+        ]
+      },
+      "id": "node/8337296212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8337372220",
+        "highway": "traffic_signals",
+        "ref": "AAITDMADPUR_PEDESTRIAN_S3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3195577,
+          28.4532533
+        ]
+      },
+      "id": "node/8337372220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8337372226",
+        "from": "Canal",
+        "highway": "traffic_signals",
+        "ref": "AAITDMADPUR_S3",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.31965,
+          28.4532413
+        ]
+      },
+      "id": "node/8337372226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8337411918",
+        "highway": "traffic_signals",
+        "ref": "SEC_2930_PEDESTRIAN_S3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3238854,
+          28.438994
+        ]
+      },
+      "id": "node/8337411918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8337411920",
+        "from": "Police Line",
+        "highway": "traffic_signals",
+        "ref": "SEC_2930_S3",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3238152,
+          28.4390651
+        ]
+      },
+      "id": "node/8337411920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8337462345",
+        "from": "Sector 7N8",
+        "highway": "traffic_signals",
+        "ref": "SECTOR1829BYPASS_S3",
+        "traffic_signals:direction": "backward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3267582,
+          28.4286719
+        ]
+      },
+      "id": "node/8337462345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8337506312",
+        "highway": "traffic_signals",
+        "ref": "MOHNA_MACHGARH_PEDESTRIAN_S3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3579209,
+          28.3175208
+        ]
+      },
+      "id": "node/8337506312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8337506316",
+        "from": "Sector 68",
+        "highway": "traffic_signals",
+        "ref": "MOHNA_MACHGARH_S3",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.357916,
+          28.3174849
+        ]
+      },
+      "id": "node/8337506316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8337508520",
+        "highway": "traffic_signals",
+        "ref": "MOHNA_MACHGARH_PEDESTRIAN_S4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3579061,
+          28.3180416
+        ]
+      },
+      "id": "node/8337508520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8337508524",
+        "from": "IMT",
+        "highway": "traffic_signals",
+        "ref": "MOHNA_MACHGARH_S4",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3579109,
+          28.3180609
+        ]
+      },
+      "id": "node/8337508524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8337508528",
+        "highway": "traffic_signals",
+        "ref": "MOHNA_MACHGARH_PEDESTRIAN_S1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.35798,
+          28.3176742
+        ]
+      },
+      "id": "node/8337508528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8337508532",
+        "from": "Mohna",
+        "highway": "traffic_signals",
+        "ref": "MOHNA_MACHGARH_S1",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3580063,
+          28.3176625
+        ]
+      },
+      "id": "node/8337508532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8337508536",
+        "highway": "traffic_signals",
+        "ref": "MOHNA_MACHGARH_PEDESTRIAN_S2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3578024,
+          28.3177534
+        ]
+      },
+      "id": "node/8337508536"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8337508540",
+        "from": "Chandawali",
+        "highway": "traffic_signals",
+        "ref": "MOHNA_MACHGARH_S2",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3577721,
+          28.317767
+        ]
+      },
+      "id": "node/8337508540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8337566411",
+        "from": "Mathura Road",
+        "highway": "traffic_signals",
+        "ref": "SEC17N18_S3",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3302812,
+          28.416791
+        ]
+      },
+      "id": "node/8337566411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8337581116",
+        "from": "Sector 14",
+        "highway": "traffic_signals",
+        "ref": "SECTOR1417_S3",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3342298,
+          28.4028488
+        ]
+      },
+      "id": "node/8337581116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8337593119",
+        "from": "Khedi",
+        "highway": "traffic_signals",
+        "ref": "KHERI_PUL_S3",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3296983,
+          28.4207343
+        ]
+      },
+      "id": "node/8337593119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8337593146",
+        "from": "Market",
+        "highway": "traffic_signals",
+        "ref": "KHERI_PUL_S4",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3289539,
+          28.4212461
+        ]
+      },
+      "id": "node/8337593146"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8337610426",
+        "highway": "traffic_signals",
+        "ref": "SECTOR1417_PEDESTRIAN_S3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3343222,
+          28.4028421
+        ]
+      },
+      "id": "node/8337610426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8337682624",
+        "from": "Sector 81/86",
+        "highway": "traffic_signals",
+        "ref": "SECTOR14CUT_S3",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3365124,
+          28.395342
+        ]
+      },
+      "id": "node/8337682624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8337969852",
+        "from": "Canal",
+        "highway": "traffic_signals",
+        "ref": "BPTP_S4",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3370849,
+          28.3896648
+        ]
+      },
+      "id": "node/8337969852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8337969861",
+        "from": "Mathura Road",
+        "highway": "traffic_signals",
+        "ref": "BPTP_S3",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3364064,
+          28.3897333
+        ]
+      },
+      "id": "node/8337969861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8338090376",
+        "from": "Sector 9N10",
+        "highway": "traffic_signals",
+        "ref": "SECTOR9N13_S7",
+        "traffic_signals:direction": "backward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3372051,
+          28.3826588
+        ]
+      },
+      "id": "node/8338090376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8338813919",
+        "highway": "traffic_signals",
+        "ref": "CHANDAWALIPULI_SEC64_PEDESTRIAN_S2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3444115,
+          28.3230819
+        ]
+      },
+      "id": "node/8338813919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8338813923",
+        "from": "Chandawali",
+        "highway": "traffic_signals",
+        "ref": "CHANDAWALIPULI_SEC64_S2",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3444629,
+          28.3231349
+        ]
+      },
+      "id": "node/8338813923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8338813927",
+        "highway": "traffic_signals",
+        "ref": "CHANDAWALIPULI_SEC64_PEDESTRIAN_S4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3440583,
+          28.3231782
+        ]
+      },
+      "id": "node/8338813927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8338813931",
+        "from": "Ballabhgarh",
+        "highway": "traffic_signals",
+        "ref": "CHANDAWALIPULI_SEC64_S4",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3440355,
+          28.3231872
+        ]
+      },
+      "id": "node/8338813931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8338833756",
+        "highway": "traffic_signals",
+        "ref": "IMTCHOWK_PEDESTRIAN_S4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3429806,
+          28.3311077
+        ]
+      },
+      "id": "node/8338833756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8338833760",
+        "from": "Ballabhgarh",
+        "highway": "traffic_signals",
+        "ref": "IMTCHOWK_S4",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3429455,
+          28.3311576
+        ]
+      },
+      "id": "node/8338833760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8338833783",
+        "highway": "traffic_signals",
+        "ref": "IMTCHOWK_PEDESTRIAN_S3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3434678,
+          28.3311069
+        ]
+      },
+      "id": "node/8338833783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8338833786",
+        "from": "IMT",
+        "highway": "traffic_signals",
+        "ref": "IMTCHOWK_S3",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3435115,
+          28.3310645
+        ]
+      },
+      "id": "node/8338833786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8338856859",
+        "highway": "traffic_signals",
+        "ref": "SEC2BALLABHGARH_PEDESTRIAN_S3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3320638,
+          28.3454053
+        ]
+      },
+      "id": "node/8338856859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8338856863",
+        "from": "Ballabhgarh",
+        "highway": "traffic_signals",
+        "ref": "SEC2BALLABHGARH_S3",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3320392,
+          28.3454174
+        ]
+      },
+      "id": "node/8338856863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8338856867",
+        "highway": "traffic_signals",
+        "ref": "SEC2BALLABHGARH_PEDESTRIAN_S2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3320361,
+          28.3453186
+        ]
+      },
+      "id": "node/8338856867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8338856871",
+        "from": "Palwal",
+        "highway": "traffic_signals",
+        "ref": "SEC2BALLABHGARH_S2",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3320262,
+          28.3452894
+        ]
+      },
+      "id": "node/8338856871"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8338856875",
+        "highway": "traffic_signals",
+        "ref": "SEC2BALLABHGARH_PEDESTRIAN_S1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3321714,
+          28.345384
+        ]
+      },
+      "id": "node/8338856875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8338856879",
+        "from": "Delhi",
+        "highway": "traffic_signals",
+        "ref": "SEC2BALLABHGARH_S1",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3322017,
+          28.345374
+        ]
+      },
+      "id": "node/8338856879"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8338944552",
+        "from": "Ballabhgarh",
+        "highway": "traffic_signals",
+        "ref": "NTPCBYPASSROAD_S3",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3409316,
+          28.3485265
+        ]
+      },
+      "id": "node/8338944552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8338944560",
+        "from": "Tigaon",
+        "highway": "traffic_signals",
+        "ref": "NTPCBYPASSROAD_S4",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3415193,
+          28.3486888
+        ]
+      },
+      "id": "node/8338944560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8339018462",
+        "highway": "traffic_signals",
+        "ref": "NTPCTONFROMTIGAON_PEDESTRIAN_S1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3451722,
+          28.3489691
+        ]
+      },
+      "id": "node/8339018462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8339018466",
+        "from": "Mathura Road",
+        "highway": "traffic_signals",
+        "ref": "NTPCTONFROMTIGAON_S1",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3451513,
+          28.3489612
+        ]
+      },
+      "id": "node/8339018466"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8339018470",
+        "highway": "traffic_signals",
+        "ref": "NTPCTONFROMTIGAON_PEDESTRIAN_S4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3456047,
+          28.3489223
+        ]
+      },
+      "id": "node/8339018470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8339018474",
+        "from": "Muheri",
+        "highway": "traffic_signals",
+        "ref": "NTPCTONFROMTIGAON_S4",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.345623,
+          28.3489143
+        ]
+      },
+      "id": "node/8339018474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8339018478",
+        "highway": "traffic_signals",
+        "ref": "NTPCTONFROMTIGAON_PEDESTRIAN_S2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.345697,
+          28.3490091
+        ]
+      },
+      "id": "node/8339018478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8339018482",
+        "from": "Tigaon",
+        "highway": "traffic_signals",
+        "ref": "NTPCTONFROMTIGAON_S2",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3457273,
+          28.3490069
+        ]
+      },
+      "id": "node/8339018482"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8339018486",
+        "highway": "traffic_signals",
+        "ref": "NTPCTONFROMTIGAON_PEDESTRIAN_S3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3453331,
+          28.3490543
+        ]
+      },
+      "id": "node/8339018486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8339018490",
+        "from": "Mirjapur",
+        "highway": "traffic_signals",
+        "ref": "NTPCTONFROMTIGAON_S3",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.345353,
+          28.349069
+        ]
+      },
+      "id": "node/8339018490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8339245512",
+        "from": "Mathura Road",
+        "highway": "traffic_signals",
+        "ref": "12N15TPOINT_S2",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3251914,
+          28.3889092
+        ]
+      },
+      "id": "node/8339245512"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8339302014",
+        "from": "Milan T-Point",
+        "highway": "traffic_signals",
+        "ref": "SECTOR7N8PS_S1",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3354296,
+          28.3697092
+        ]
+      },
+      "id": "node/8339302014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8339319022",
+        "from": "Bypass",
+        "highway": "traffic_signals",
+        "ref": "SECTOR7N8PS_S2",
+        "traffic_signals:direction": "backward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3355948,
+          28.3697203
+        ]
+      },
+      "id": "node/8339319022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8339319030",
+        "from": "Police Station",
+        "highway": "traffic_signals",
+        "ref": "SECTOR7N8PS_S3",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.335517,
+          28.3696561
+        ]
+      },
+      "id": "node/8339319030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8339327220",
+        "highway": "traffic_signals",
+        "ref": "MILANSWEETS_PEDESTRIAN_S7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.328558,
+          28.3692074
+        ]
+      },
+      "id": "node/8339327220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8339327224",
+        "from": "Sector 9",
+        "highway": "traffic_signals",
+        "ref": "MILANSWEETS_S7",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3285716,
+          28.36919
+        ]
+      },
+      "id": "node/8339327224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8339327228",
+        "highway": "traffic_signals",
+        "ref": "MILANSWEETS_PEDESTRIAN_S6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3286368,
+          28.3692854
+        ]
+      },
+      "id": "node/8339327228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8339327232",
+        "from": "Bypass",
+        "highway": "traffic_signals",
+        "ref": "MILANSWEETS_S6",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3286654,
+          28.3692762
+        ]
+      },
+      "id": "node/8339327232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8339327236",
+        "highway": "traffic_signals",
+        "ref": "MILANSWEETS_PEDESTRIAN_S5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3284849,
+          28.3692765
+        ]
+      },
+      "id": "node/8339327236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8339327240",
+        "from": "Mathura Road",
+        "highway": "traffic_signals",
+        "ref": "MILANSWEETS_S5",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3284579,
+          28.3692644
+        ]
+      },
+      "id": "node/8339327240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8339337753",
+        "from": "Milan T-Point",
+        "highway": "traffic_signals",
+        "ref": "SEC9N10_S3",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.328751,
+          28.3820319
+        ]
+      },
+      "id": "node/8339337753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8339337754",
+        "from": "Bypass",
+        "highway": "traffic_signals",
+        "ref": "SEC9N10_S2",
+        "traffic_signals:direction": "backward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.328853,
+          28.3821185
+        ]
+      },
+      "id": "node/8339337754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8339337758",
+        "highway": "traffic_signals",
+        "ref": "SEC9N10_PEDESTRIAN_S2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.328821,
+          28.3821263
+        ]
+      },
+      "id": "node/8339337758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8339337765",
+        "highway": "traffic_signals",
+        "ref": "SEC9N10_PEDESTRIAN_S1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3286564,
+          28.3821158
+        ]
+      },
+      "id": "node/8339337765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8339337772",
+        "highway": "traffic_signals",
+        "ref": "SEC9N10_PEDESTRIAN_S3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3287362,
+          28.3820571
+        ]
+      },
+      "id": "node/8339337772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8339337776",
+        "from": "Court",
+        "highway": "traffic_signals",
+        "ref": "SEC9N10_S1",
+        "traffic_signals:direction": "backward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3286303,
+          28.3821035
+        ]
+      },
+      "id": "node/8339337776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8339353420",
+        "from": "Bypass",
+        "highway": "traffic_signals",
+        "ref": "12N15TPOINT_S1",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3247748,
+          28.388958
+        ]
+      },
+      "id": "node/8339353420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8339353428",
+        "from": "Sunflag",
+        "highway": "traffic_signals",
+        "ref": "12N15TPOINT_S3",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3249398,
+          28.3887787
+        ]
+      },
+      "id": "node/8339353428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8339409488",
+        "from": "Sector 12/15",
+        "highway": "traffic_signals",
+        "ref": "SUNFLAGCHOWK_S3",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.318828,
+          28.4017204
+        ]
+      },
+      "id": "node/8339409488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8339409496",
+        "from": "Metro Hospital",
+        "highway": "traffic_signals",
+        "ref": "SUNFLAGCHOWK_S4",
+        "traffic_signals:direction": "backward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3187641,
+          28.4020249
+        ]
+      },
+      "id": "node/8339409496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8339409500",
+        "direction": "backward",
+        "highway": "traffic_signals",
+        "ref": "SUNFLAGCHOWK_PEDESTRIAN_S1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3191029,
+          28.4019165
+        ]
+      },
+      "id": "node/8339409500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8339414840",
+        "from": "NH2",
+        "highway": "traffic_signals",
+        "ref": "SUNFLAGCHOWK_S2",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3186067,
+          28.4018713
+        ]
+      },
+      "id": "node/8339414840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8339417541",
+        "from": "Sector 86",
+        "highway": "traffic_signals",
+        "ref": "SRSCHOWK_S1",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3492196,
+          28.411032
+        ]
+      },
+      "id": "node/8339417541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8339417549",
+        "from": "Sector 88",
+        "highway": "traffic_signals",
+        "ref": "SRSCHOWK_S2",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3496575,
+          28.410912
+        ]
+      },
+      "id": "node/8339417549"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8339417557",
+        "from": "Budaina",
+        "highway": "traffic_signals",
+        "ref": "SRSCHOWK_S4",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.34937,
+          28.4108006
+        ]
+      },
+      "id": "node/8339417557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8339417565",
+        "from": "Khedi Jasana",
+        "highway": "traffic_signals",
+        "ref": "SRSCHOWK_S3",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3494664,
+          28.4112335
+        ]
+      },
+      "id": "node/8339417565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8339421161",
+        "from": "Jasana",
+        "highway": "traffic_signals",
+        "ref": "KHEDI_JASNA_S3",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3502625,
+          28.4197647
+        ]
+      },
+      "id": "node/8339421161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8339421169",
+        "from": "Khedi",
+        "highway": "traffic_signals",
+        "ref": "KHEDI_JASNA_S4",
+        "traffic_signals:direction": "backward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3499095,
+          28.4198121
+        ]
+      },
+      "id": "node/8339421169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8339421177",
+        "from": "Sector 88",
+        "highway": "traffic_signals",
+        "ref": "KHEDI_JASNA_S1",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3501458,
+          28.4198359
+        ]
+      },
+      "id": "node/8339421177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8339421185",
+        "from": "SRS Chowk",
+        "highway": "traffic_signals",
+        "ref": "KHEDI_JASNA_S2",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3500471,
+          28.419649
+        ]
+      },
+      "id": "node/8339421185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8339438633",
+        "highway": "traffic_signals",
+        "ref": "SECTOR86N87_PEDESTRIAN_S1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3355799,
+          28.4110223
+        ]
+      },
+      "id": "node/8339438633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8339438637",
+        "from": "Bypass",
+        "highway": "traffic_signals",
+        "ref": "SECTOR86N87_S1",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3355527,
+          28.4110839
+        ]
+      },
+      "id": "node/8339438637"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8339438641",
+        "highway": "traffic_signals",
+        "ref": "SECTOR86N87_PEDESTRIAN_S3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3359413,
+          28.411028
+        ]
+      },
+      "id": "node/8339438641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8339438645",
+        "from": "SRS",
+        "highway": "traffic_signals",
+        "ref": "SECTOR86N87_S3",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3359925,
+          28.4109793
+        ]
+      },
+      "id": "node/8339438645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8339438649",
+        "highway": "traffic_signals",
+        "ref": "SECTOR86N87_PEDESTRIAN_S4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.335765,
+          28.4108993
+        ]
+      },
+      "id": "node/8339438649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8339438653",
+        "from": "Sector 81/86",
+        "highway": "traffic_signals",
+        "ref": "SECTOR86N87_S4",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3357157,
+          28.4108674
+        ]
+      },
+      "id": "node/8339438653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8339445661",
+        "highway": "traffic_signals",
+        "ref": "POLICE_LINE_3031_PEDESTRIAN_S4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3186296,
+          28.4391698
+        ]
+      },
+      "id": "node/8339445661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8339445665",
+        "from": "Sector 31",
+        "highway": "traffic_signals",
+        "ref": "POLICE_LINE_3031_S4",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3186228,
+          28.4391866
+        ]
+      },
+      "id": "node/8339445665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8339445669",
+        "highway": "traffic_signals",
+        "ref": "POLICE_LINE_3031_PEDESTRIAN_S3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3186752,
+          28.4389297
+        ]
+      },
+      "id": "node/8339445669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8339445673",
+        "from": "School",
+        "highway": "traffic_signals",
+        "ref": "POLICE_LINE_3031_S3",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3186747,
+          28.4389119
+        ]
+      },
+      "id": "node/8339445673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8339445677",
+        "highway": "traffic_signals",
+        "ref": "POLICE_LINE_3031_PEDESTRIAN_S2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.318832,
+          28.4390006
+        ]
+      },
+      "id": "node/8339445677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8339445681",
+        "from": "Bypass",
+        "highway": "traffic_signals",
+        "ref": "POLICE_LINE_3031_S2",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3188518,
+          28.4390039
+        ]
+      },
+      "id": "node/8339445681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8339445685",
+        "highway": "traffic_signals",
+        "ref": "POLICE_LINE_3031_PEDESTRIAN_S1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.318509,
+          28.4390002
+        ]
+      },
+      "id": "node/8339445685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8339445689",
+        "from": "NH2",
+        "highway": "traffic_signals",
+        "ref": "POLICE_LINE_3031_S1",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3184859,
+          28.4390034
+        ]
+      },
+      "id": "node/8339445689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8339515286",
+        "highway": "traffic_signals",
+        "ref": "SECTOR_37_PEDESTRIAN_S6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3145267,
+          28.4827166
+        ]
+      },
+      "id": "node/8339515286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8339515290",
+        "from": "Palwal",
+        "highway": "traffic_signals",
+        "ref": "SECTOR_37_S6",
+        "traffic_signals:direction": "forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3145273,
+          28.4826486
+        ]
+      },
+      "id": "node/8339515290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9754206908",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.309139,
+          28.3184775
+        ]
+      },
+      "id": "node/9754206908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9754206909",
+        "highway": "traffic_signals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3088766,
+          28.3185359
+        ]
+      },
+      "id": "node/9754206909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11527628393",
+        "direction": "forward",
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3250857,
+          28.3890626
+        ]
+      },
+      "id": "node/11527628393"
+    }
+  ]
+}
